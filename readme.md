@@ -12,7 +12,7 @@ A junior developer with a entrepreneurial spirit to craft great applications tha
 #### Projects from my time at Makers Academy:
 
 Project | Team Size | Description | Technologies used | View Code |
---- | --- | --- | --- |
+--- | --- | --- | --- | --- |
 [JabbyChat] | 4 | WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages. | Swift, Javascript, jQuery, XMPP, Google Translation API, Ajax, Bootstrap, CSS3 and HTML5 | [JabbyChat Github]
 [Instagram] | 1 | Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Ruby on Rails, Javascript, jQuery, Ajax, Bootstrap, RSpec, CSS3 and HTML5| [Instagram Github]
 [Chitter] | 1 | Basic Test driven Sinatra Twitter clone. Built over 2 days. | Sinatra, Ruby, RSpec, Bootstrap | [Chitter Github]
