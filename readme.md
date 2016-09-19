@@ -16,7 +16,7 @@ Portfolio
 |:--------------- |:-------- |:--------- |
 | WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in Swift and web client in Javascript/jQuery. With text translation for messages.| Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. | Basic Test driven Sinatra Twitter clone.  |
 
- #### Personal projects I have been developing over the last few years.
+#### Personal projects I have been developing over the last few years.
 
 | [JobVeta.co.uk] | [DomainLookup]|
 |:--------------- |:--------- |
