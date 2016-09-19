@@ -11,11 +11,11 @@ A junior developer with a entrepreneurial spirit to craft great applications tha
 
 #### Projects from my time at Makers Academy:
 
-Project | Description | Technologies used | View Code |
---- | --- | --- | ---
-[JabbyChat] | WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages. | Swift, Javascript, jQuery, XMPP, Google Translation API, Ajax, Bootstrap, CSS3 and HTML5 | [JabbyChat Github]
-[Instagram] | Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Ruby on Rails, Javascript, jQuery, Ajax, Bootstrap, RSpec, CSS3 and HTML5| [Instagram Github]
-[Chitter]| Basic Test driven Sinatra Twitter clone. Built over 2 days. | Sinatra, Ruby, RSpec, Bootstrap | [Chitter Github]
+Project | Team Size | Description | Technologies used | View Code |
+--- | --- | --- | --- |
+[JabbyChat] | 4 | WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages. | Swift, Javascript, jQuery, XMPP, Google Translation API, Ajax, Bootstrap, CSS3 and HTML5 | [JabbyChat Github]
+[Instagram] | 1 | Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Ruby on Rails, Javascript, jQuery, Ajax, Bootstrap, RSpec, CSS3 and HTML5| [Instagram Github]
+[Chitter] | 1 | Basic Test driven Sinatra Twitter clone. Built over 2 days. | Sinatra, Ruby, RSpec, Bootstrap | [Chitter Github]
 
 #### Personal projects I have been developing over the last few years:
 
@@ -23,24 +23,6 @@ Project | Description | Technologies used |
 --- | --- | --- | ---
 [JobVeta.co.uk] | Job search engine that crawls and indexes jobs from different websites. |  C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's.
 [DomainLookup] | A Chrome extension that allows users to right click on a word and check if that word has an available domain. | Javascript, HTML and CSS, WHOIS API lookup.
-
-
-<a name="traits">Traits</a>
----------------
-I have asked members of my team whom I have worked with for feedback on some of my strengths. Below is a non exhaustive list of traits that stood out to me:
-
-#### Perseverance in resolving problems
-A never give up attitude to resolving problems. Have spent the last two years building [JobVeta.co.uk]. I faced many problems on the way but always found a solution or workaround. Self driven and put the work in to make great products.
-
-#### Team player
-A friendly ever present team member who actively participates in building a good working environment for the whole team.
-
-#### Visionary
-Can visualize an application while it's still on the drawing board.
-
-#### Fast learner
-Quickly able to pick up new technologies. For example for the final project at Makers Academy me and my team built two clients one of which was using Swift for the iOS application. This was completely new to all of the team and in less then 2 weeks built a working MVP.
-
 
 <a name="experience">Experience</a>
 ----------
@@ -60,6 +42,19 @@ Quickly able to pick up new technologies. For example for the final project at M
 
 ### Server Administrator at We Solve IT, Dudley, United Kingdom
 **Oct 2007&mdash;Jan 2009**
+
+<a name="traits">Traits</a>
+---------------
+I have asked members of my team whom I have worked with for feedback on some of my strengths. Below is a non exhaustive list of traits that stood out to me:
+
+#### Perseverance in resolving problems
+A never give up attitude to resolving problems. Have spent the last two years building [JobVeta.co.uk]. I faced many problems on the way but always found a solution or workaround. Self driven and put the work in to make great products.
+
+#### Visionary
+Can visualize an application while it's still on the drawing board.
+
+#### Fast learner
+Quickly able to pick up new technologies. For example for the final project at Makers Academy me and my team built two clients one of which was using Swift for the iOS application. This was completely new to all of the team and in less then 2 weeks built a working MVP.
 
 
 <a name="education">Education</a>
