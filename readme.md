@@ -10,13 +10,13 @@ After 10 years in technical support I decided to do something I have always been
 Portfolio
 -------------
 
-#### Projects from my time at Makers Academy
+#### Projects from my time at Makers Academy:
 
 | [JabbyChat] | [Instagram] | [Chitter] |
 |:--------------- |:-------- |:--------- |
-| WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in Swift and web client in Javascript/jQuery. With text translation for messages.| Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. | Basic Test driven Sinatra Twitter clone.  |
+| WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages.| Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Basic Test driven Sinatra Twitter clone. Built over 2 days. |
 
-#### Personal projects I have been developing over the last few years.
+#### Personal projects I have been developing over the last few years:
 
 | [JobVeta.co.uk] | [DomainLookup]|
 |:--------------- |:--------- |
@@ -39,15 +39,16 @@ Technical Skills
   - Ruby
   - C# / .NET Framework
   - Javascript/jQuery
-  - SEO
   - Git/Mercurial
-  - Sinatra
   - Ruby on Rails
   - TDD, BDD
+  - RSpec, Capybara
+  - SEO
+  - Google Webmaster Tools
+  - Sinatra
   - Pair programming
   - Agile practices
   - XPATH
-  - RSpec, Capybara
   - MySQL
   - Postgres
   - ExpressJs
@@ -58,7 +59,6 @@ Technical Skills
   - REST APIs
   - Devops and infrastructure
   - Google Analytics
-  - Google Webmaster Tools
   - HTML5, CSS3, Bootstrap
   - Sphinx Search
   - XMPP
