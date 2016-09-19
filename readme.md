@@ -7,8 +7,15 @@ About
 ---------------
 After 10 years in technical support I decided to do something I have always been passionate about and so joined the intensive software developer course at Makers Academy to kickstart my career as a developer.
 
+Soft Skills
+---------------
+- Passionate about crafting good code
+- Entrepreneurial mindset
+- Perseverance in resolving problems
+- Team player
+- Visionary
 
-Skill Set
+Technical Skill
 ---------------
 **From more to less experience**
 
@@ -61,18 +68,17 @@ Experience
 ### IT Engineer at Lend Lease, Birmingham, United Kingdom
 **Jan 2012&mdash;Jul 2016**
 
-  - Providing technical support to users.
+  - Providing technical/debugging support to clients.
   - Creating applications in C#, close integration with existing systems such as Active Directory and Office 365.
   - Writing scripts in PowerShell, maintaining a number of Windows servers and networks.
 
-### IT Technical Support at Capita, Derby/Nottingham, United
+### IT Technical Support at Capita, Derby/Nottingham, United Kingdom
 **Aug 2009&mdash;Jan 2012**
 
-### IT Technical Support at Carillion, Wolverhampton, United
+### IT Technical Support at Carillion, Wolverhampton, United Kingdom
 **Jan 2009&mdash;Aug 2009**
-(Redundancy)
 
-### Server Administrator at We Solve IT, Dudley, United
+### Server Administrator at We Solve IT, Dudley, United Kingdom
 **Oct 2007&mdash;Jan 2009**
 
 
