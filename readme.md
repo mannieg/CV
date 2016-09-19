@@ -108,7 +108,7 @@ Interests
 - Writing maintainable, readable and well-tested code.
 - Scalable applications and Agile practices.
 - High traffic sites, lean startups, SEO, scraping data and the business side of tech.
-- Spending time with my children and wife, history, philosophy, politics and  football.
+- Enjoy reading up on history, philosophy, politics and love football.
 
 Languages
 ---------
