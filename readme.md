@@ -6,7 +6,7 @@ After 10 years working as a IT engineer managing and setting up servers and data
 
 A junior developer with a entrepreneurial spirit to craft great applications that make a real difference. Enjoy learning new skills, passionate about the web and want to put my mark on the industry.
 
-<a name="portfolio">Portfolio</a>
+## <a name="portfolio">Portfolio</a>
 -------------
 
 #### Projects from my time at Makers Academy:
@@ -24,7 +24,7 @@ Project | Description | Technologies used |
 [JobVeta.co.uk] | Job search engine that crawls and indexes jobs from different websites. |  C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's.
 [DomainLookup] | A Chrome extension that allows users to right click on a word and check if that word has an available domain. | Javascript, HTML and CSS, WHOIS API lookup.
 
-<a name="experience">Experience</a>
+## <a name="experience">Experience</a>
 ----------
 ### IT Engineer at Lend Lease, Birmingham, United Kingdom
 **Jan 2012&mdash;Jul 2016**
@@ -43,7 +43,7 @@ Project | Description | Technologies used |
 ### Server Administrator at We Solve IT, Dudley, United Kingdom
 **Oct 2007&mdash;Jan 2009**
 
-<a name="traits">Traits</a>
+## <a name="traits">Traits</a>
 ---------------
 I have asked members of my team whom I have worked with for feedback on some of my strengths. Below is a non exhaustive list of traits that stood out to me:
 
@@ -57,7 +57,7 @@ Can visualize an application while it's still on the drawing board.
 Quickly able to pick up new technologies. For example for the final project at Makers Academy me and my team built two clients one of which was using Swift for the iOS application. This was completely new to all of the team and in less then 2 weeks built a working MVP.
 
 
-<a name="education">Education</a>
+## <a name="education">Education</a>
 ----------
 
 ### [Makers Academy], London
@@ -76,20 +76,20 @@ Quickly able to pick up new technologies. For example for the final project at M
 ### City College, Birmingham
 **NVQ ICT Practitioner: 2006**
 
-<a name="interests">Interests</a>
+## <a name="interests">Interests</a>
 ---------
 
 - Scalable applications and Agile practices.
 - High traffic sites, lean startups, SEO, scraping data and the business side of tech.
 - Enjoy reading up on history, philosophy, politics and love football.
 
-Languages
+## Languages
 ---------
 
 - English
 - Punjabi
 
-<a name="contact">Contact me</a>
+## <a name="contact">Contact me</a>
 -------
 
 - [github@mannieg]
