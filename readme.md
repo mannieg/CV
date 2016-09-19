@@ -105,7 +105,6 @@ Education
 Interests
 ---------
 
-- Writing maintainable, readable and well-tested code.
 - Scalable applications and Agile practices.
 - High traffic sites, lean startups, SEO, scraping data and the business side of tech.
 - Enjoy reading up on history, philosophy, politics and love football.
