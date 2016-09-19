@@ -13,9 +13,9 @@ A junior developer with a entrepreneurial spirit to craft great applications tha
 
 Project | Description | Technologies used | View Code |
 --- | --- | --- | ---
-[JabbyChat] | WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages. | Swift, Javascript, jQuery, XMPP, Google Translation API, Ajax, Bootstrap, CSS3 and HTML5 | [JabbyChat_Github]
-[Instagram] | Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Ruby on Rails, Javascript, jQuery, Ajax, Bootstrap, RSpec, CSS3 and HTML5| [Instagram_Github]
-[Chitter]| Basic Test driven Sinatra Twitter clone. Built over 2 days. | Sinatra, Ruby, RSpec, Bootstrap | [Chitter_Github]
+[JabbyChat] | WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages. | Swift, Javascript, jQuery, XMPP, Google Translation API, Ajax, Bootstrap, CSS3 and HTML5 | [JabbyChat Github]
+[Instagram] | Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Ruby on Rails, Javascript, jQuery, Ajax, Bootstrap, RSpec, CSS3 and HTML5| [Instagram Github]
+[Chitter]| Basic Test driven Sinatra Twitter clone. Built over 2 days. | Sinatra, Ruby, RSpec, Bootstrap | [Chitter Github]
 
 #### Personal projects I have been developing over the last few years:
 
@@ -101,8 +101,11 @@ Languages
 - [Github]
 
   [JabbyChat]:https://github.com/WhatsApe
+  [JabbyChat Github]:https://github.com/WhatsApe
   [Chitter]:https://github.com/mannieg/chitter-challenge
+  [Chitter Github]:https://github.com/mannieg/chitter-challenge
   [Instagram]:https://github.com/mannieg/instagram-challenge
+  [Instagram Github]:https://github.com/mannieg/instagram-challenge
   [Makers Academy]:http://www.makersacademy.com
   [JobVeta.co.uk]: http://dev:dev@www.jobveta.co.uk
   [github@mannieg]: mailto:github@mannieg
