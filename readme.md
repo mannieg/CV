@@ -7,6 +7,22 @@ About
 ---------------
 After 10 years in technical support I decided to do something I have always been passionate about and so joined the intensive software developer course at Makers Academy to kickstart my career as a developer.
 
+Portfolio
+-------------
+
+- Projects from my time at Makers Academy
+
+| [JabbyChat] | [Instagram] | [Chitter] |
+|:--------------- |:-------- |:--------- |
+| WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in Swift and web client in Javascript/jQuery. With text translation for messages.| Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. | Basic Test driven Sinatra Twitter clone.  |
+
+- Personal projects I have been developing over the last few years.
+
+| [JobVeta.co.uk] | [DomainLookup]|
+|:--------------- |:--------- |
+| Job search engine that crawls and indexes jobs from different websites. Technologies used include: C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's. | A Chrome extension that allows users to right click on a word and check if that word has an available domain. |
+
+
 Soft Skills
 ---------------
 - Passionate about crafting good code
@@ -14,8 +30,9 @@ Soft Skills
 - Perseverance in resolving problems
 - Team player
 - Visionary
+- Fast learner
 
-Technical Skill
+Technical Skills
 ---------------
 **From more to less experience**
 
@@ -46,21 +63,6 @@ Technical Skill
   - Sphinx Search
   - XMPP
   - Swift/iOS development
-
-Portfolio
--------------
-
-- Projects from my time at Makers Academy
-
-| [JabbyChat] | [Instagram] | [Chitter] |
-|:--------------- |:-------- |:--------- |
-| WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in Swift and web client in Javascript/jQuery. With text translation for messages.| Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. | Basic Test driven Sinatra Twitter clone.  |
-
-- Personal projects I have been developing over the last few years.
-
-| [JobVeta.co.uk] | [DomainLookup]|
-|:--------------- |:--------- |
-| Job search engine that crawls and indexes jobs from different websites. Technologies used include: C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's. | A Chrome extension that allows users to right click on a word and check if that word has an available domain. |
 
 
 Experience
