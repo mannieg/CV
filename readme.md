@@ -1,71 +1,48 @@
 Manjinder Gill
 =========
+[Portfolio](#portfolio) | [Traits](#traits) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
-A junior developer with a entrepreneurial spirit to craft great applications that make a real difference. Enjoy learning new skills, passionate about the web and want to put my mark on the industry...Watch this space!
+After 10 years working as a IT engineer managing and setting up servers and databases, packaging applications as well as building software to help with my day to day work. I decided to do something I have always been passionate about and so joined the intensive software developer course at Makers Academy so that I can craft beautiful code for a living full time.
 
-About
----------------
-After 10 years in technical support I decided to do something I have always been passionate about and so joined the intensive software developer course at Makers Academy to kickstart my career as a developer.
+A junior developer with a entrepreneurial spirit to craft great applications that make a real difference. Enjoy learning new skills, passionate about the web and want to put my mark on the industry.
 
-Portfolio
+<a name="portfolio">Portfolio</a>
 -------------
 
 #### Projects from my time at Makers Academy:
 
-| [JabbyChat] | [Instagram] | [Chitter] |
-|:--------------- |:-------- |:--------- |
-| WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages.| Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Basic Test driven Sinatra Twitter clone. Built over 2 days. |
+Project | Description | Technologies used | View Code |
+--- | --- | --- | ---
+[JabbyChat] | WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in less then 2 weeks using Swift and web client in Javascript/jQuery. With text translation for messages. | Swift, Javascript, jQuery, XMPP, Google Translation API, Ajax, Bootstrap, CSS3 and HTML5 | [JabbyChat_Github]
+[Instagram] | Ruby on Rails Instagram clone with most of the major features. That also uses Javascript and Ajax. Built the core app over 2 days. | Ruby on Rails, Javascript, jQuery, Ajax, Bootstrap, RSpec, CSS3 and HTML5| [Instagram_Github]
+[Chitter]| Basic Test driven Sinatra Twitter clone. Built over 2 days. | Sinatra, Ruby, RSpec, Bootstrap | [Chitter_Github]
 
 #### Personal projects I have been developing over the last few years:
 
-| [JobVeta.co.uk] | [DomainLookup]|
-|:--------------- |:--------- |
-| Job search engine that crawls and indexes jobs from different websites. Technologies used include: C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's. | A Chrome extension that allows users to right click on a word and check if that word has an available domain. |
+Project | Description | Technologies used |
+--- | --- | --- | ---
+[JobVeta.co.uk] | Job search engine that crawls and indexes jobs from different websites. |  C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's.
+[DomainLookup] | A Chrome extension that allows users to right click on a word and check if that word has an available domain. | Javascript, HTML and CSS, WHOIS API lookup.
 
 
-Soft Skills
+<a name="traits">Traits</a>
 ---------------
-- Passionate about crafting good code
-- Entrepreneurial mindset
-- Perseverance in resolving problems
-- Team player
-- Visionary
-- Fast learner
+I have asked members of my team whom I have worked with for feedback on some of my strengths. Below is a non exhaustive list of traits that stood out to me:
 
-Technical Skills
----------------
-**From more to less experience**
+#### Perseverance in resolving problems
+A never give up attitude to resolving problems. Have spent the last two years building [JobVeta.co.uk]. I faced many problems on the way but always found a solution or workaround. Self driven and put the work in to make great products.
 
-  - Ruby
-  - C# / .NET Framework
-  - Javascript/jQuery
-  - Git/Mercurial
-  - Ruby on Rails
-  - TDD, BDD
-  - RSpec, Capybara
-  - SEO
-  - Google Webmaster Tools
-  - Sinatra
-  - Pair programming
-  - Agile practices
-  - XPATH
-  - MySQL
-  - Postgres
-  - ExpressJs
-  - NodeJs
-  - PHP
-  - Linux
-  - Redis
-  - REST APIs
-  - Devops and infrastructure
-  - Google Analytics
-  - HTML5, CSS3, Bootstrap
-  - Sphinx Search
-  - XMPP
-  - Swift/iOS development
+#### Team player
+A friendly ever present team member who actively participates in building a good working environment for the whole team.
+
+#### Visionary
+Can visualize an application while it's still on the drawing board.
+
+#### Fast learner
+Quickly able to pick up new technologies. For example for the final project at Makers Academy me and my team built two clients one of which was using Swift for the iOS application. This was completely new to all of the team and in less then 2 weeks built a working MVP.
 
 
-Experience
+<a name="experience">Experience</a>
 ----------
 ### IT Engineer at Lend Lease, Birmingham, United Kingdom
 **Jan 2012&mdash;Jul 2016**
@@ -73,18 +50,19 @@ Experience
   - Providing technical/debugging support to clients.
   - Creating applications in C#, close integration with existing systems such as Active Directory and Office 365.
   - Writing scripts in PowerShell, maintaining a number of Windows servers and networks.
+  - Writing documentation for technical and non technical staff.
 
-### IT Technical Support at Capita, Derby/Nottingham, United Kingdom
+### IT Systems Engineer at Capita, Derby/Nottingham, United Kingdom
 **Aug 2009&mdash;Jan 2012**
 
-### IT Technical Support at Carillion, Wolverhampton, United Kingdom
+### IT Remote Engineer at Carillion, Wolverhampton, United Kingdom
 **Jan 2009&mdash;Aug 2009**
 
 ### Server Administrator at We Solve IT, Dudley, United Kingdom
 **Oct 2007&mdash;Jan 2009**
 
 
-Education
+<a name="education">Education</a>
 ----------
 
 ### [Makers Academy], London
@@ -103,7 +81,7 @@ Education
 ### City College, Birmingham
 **NVQ ICT Practitioner: 2006**
 
-Interests
+<a name="interests">Interests</a>
 ---------
 
 - Scalable applications and Agile practices.
@@ -116,7 +94,7 @@ Languages
 - English
 - Punjabi
 
-Contact me
+<a name="contact">Contact me</a>
 -------
 
 - [github@mannieg]
