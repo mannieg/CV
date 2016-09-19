@@ -92,6 +92,7 @@ Education
 
   - Highly selective 12 week full-time course.
   - Focussed on Pair Programming, Test Driven Development and Agile practices.
+  - Exposure to OOP, TDD, SOLID, MVC, DDD.
   - Teaching programming with Ruby, Ruby on Rails and Javascript.
   - Graduation project: [JabbyChat] - A WhatsApp like chat clients working on XMPP protocol. Developed a iOS client in Swift and web client in Javascript/jQuery.
 
