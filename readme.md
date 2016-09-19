@@ -1,7 +1,7 @@
 Manjinder Gill
 =========
 
-A junior developer with a entrepreneurial spirit to craft great applications that make a real difference.
+A junior developer with a entrepreneurial spirit to craft great applications that make a real difference. Enjoy learning new skills, passionate about the web and want to put my mark on the industry...Watch this space!
 
 About
 ---------------
