@@ -7,7 +7,6 @@ After 10 years working as a IT engineer managing and setting up servers and data
 A junior developer with a entrepreneurial spirit to craft great applications that make a real difference. Enjoy learning new skills, passionate about the web and want to put my mark on the industry.
 
 ## <a name="portfolio">Portfolio</a>
--------------
 
 #### Projects from my time at Makers Academy:
 
@@ -25,7 +24,6 @@ Project | Description | Technologies used |
 [DomainLookup] | A Chrome extension that allows users to right click on a word and check if that word has an available domain. | Javascript, HTML and CSS, WHOIS API lookup.
 
 ## <a name="experience">Experience</a>
-----------
 ### IT Engineer at Lend Lease, Birmingham, United Kingdom
 **Jan 2012&mdash;Jul 2016**
 
@@ -44,7 +42,6 @@ Project | Description | Technologies used |
 **Oct 2007&mdash;Jan 2009**
 
 ## <a name="traits">Traits</a>
----------------
 I have asked members of my team whom I have worked with for feedback on some of my strengths. Below is a non exhaustive list of traits that stood out to me:
 
 #### Perseverance in resolving problems
@@ -58,7 +55,6 @@ Quickly able to pick up new technologies. For example for the final project at M
 
 
 ## <a name="education">Education</a>
-----------
 
 ### [Makers Academy], London
 **Programming Bootcamp: July 2016&mdash;Sept 2016**
@@ -77,20 +73,16 @@ Quickly able to pick up new technologies. For example for the final project at M
 **NVQ ICT Practitioner: 2006**
 
 ## <a name="interests">Interests</a>
----------
 
 - Scalable applications and Agile practices.
 - High traffic sites, lean startups, SEO, scraping data and the business side of tech.
 - Enjoy reading up on history, philosophy, politics and love football.
 
 ## Languages
----------
-
 - English
 - Punjabi
 
 ## <a name="contact">Contact me</a>
--------
 
 - [github@mannieg]
 - [Github]
