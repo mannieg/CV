@@ -91,7 +91,7 @@ Quickly able to pick up new technologies. For example for the final project at M
   [JabbyChat Github]:https://github.com/WhatsApe
   [Chitter]:https://github.com/mannieg/chitter-challenge
   [Chitter Github]:https://github.com/mannieg/chitter-challenge
-  [Instagram]:https://github.com/mannieg/instagram-challenge
+  [Instagram]:https://murmuring-island-90328.herokuapp.com/mannieg
   [Instagram Github]:https://github.com/mannieg/instagram-challenge
   [Makers Academy]:http://www.makersacademy.com
   [JobVeta.co.uk]: http://dev:dev@www.jobveta.co.uk
