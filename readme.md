@@ -2,9 +2,9 @@ Manjinder Gill
 =========
 [Portfolio](#portfolio) | [Traits](#traits) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
-After 10 years working as a IT engineer managing and setting up servers and databases, packaging applications as well as building software to help with my day to day work. I decided to do something I have always been passionate about and so joined the intensive software developer course at Makers Academy so that I can craft beautiful code for a living full time.
+After 10 years working as a IT engineer managing and setting up servers and databases, packaging applications as well as building software to help with my day to day work, I decided to do something I have always been passionate about and so joined the intensive software developer course at Makers Academy so that I can craft beautiful code for a living full time. This passion arose from my side project [JobVeta.co.uk] which I have been working on for the last 2 years after work, I enjoyed building this so much that it's drove me to doing this full time.
 
-A junior developer with a entrepreneurial spirit to craft great applications that make a real difference. Enjoy learning new skills, passionate about the web and want to put my mark on the industry.
+A junior developer with an entrepreneurial spirit to craft great applications that make a real difference. Enjoy learning new skills, passionate about the web and want to put my mark on the industry.
 
 ## <a name="portfolio">Portfolio</a>
 
@@ -48,7 +48,7 @@ I have asked members of my team whom I have worked with for feedback on some of 
 A never give up attitude to resolving problems. Have spent the last two years building [JobVeta.co.uk]. I faced many problems on the way but always found a solution or workaround. Self driven and put the work in to make great products.
 
 #### Visionary
-Can visualize an application while it's still on the drawing board.
+Can visualise an application while it's still on the drawing board.
 
 #### Fast learner
 Quickly able to pick up new technologies. For example for the final project at Makers Academy me and my team built two clients one of which was using Swift for the iOS application. This was completely new to all of the team and in less then 2 weeks built a working MVP.
