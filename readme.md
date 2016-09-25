@@ -21,7 +21,6 @@ Project | Team Size | Description | Technologies used | View Code |
 Project | Description | Technologies used |
 --- | --- | --- | ---
 [JobVeta.co.uk] | Job search engine that crawls and indexes jobs from different websites. |  C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's.
-[DomainLookup] | A Chrome extension that allows users to right click on a word and check if that word has an available domain. | Javascript, HTML and CSS, WHOIS API lookup.
 
 ## <a name="experience">Experience</a>
 ### IT Engineer at Lend Lease, Birmingham, United Kingdom
@@ -84,7 +83,7 @@ Quickly able to pick up new technologies. For example for the final project at M
 
 ## <a name="contact">Contact me</a>
 
-- [github@mannieg]
+- manjinder.s.gill '(at)' googlemail.com
 - [Github]
 
   [JabbyChat]:https://github.com/WhatsApe
@@ -95,7 +94,6 @@ Quickly able to pick up new technologies. For example for the final project at M
   [Instagram Github]:https://github.com/mannieg/instagram-challenge
   [Makers Academy]:http://www.makersacademy.com
   [JobVeta.co.uk]: http://dev:dev@www.jobveta.co.uk
-  [github@mannieg]: mailto:github@mannieg
   [GitHub]:https://github.com/mannieg
   [Repositories on Github]:https://github.com/mannieg?tab=repositories
   [DomainLookup]: http://www.google.co.uk
