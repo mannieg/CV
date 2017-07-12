@@ -23,6 +23,15 @@ Project | Description | Technologies used |
 [JobVeta.co.uk] | Job search engine that crawls and indexes jobs from different websites. |  C#, PHP, Javascript, Sphinx Search, MySQL, Redis, Apache and multiple API's.
 
 ## <a name="experience">Experience</a>
+### Software Developer at Euro Communication Distribution Limited, Wolverhampton, United Kingdom
+**Oct 2016&mdash;Present**
+
+  - Creating applications in PHP using the Laravel web framework.
+  - Integrating third party api's.
+  - Database design and development (MYSQL).
+  - Managing and installing a number of Windows/Linux servers.
+  - Network design and management.
+
 ### IT Engineer at Lend Lease, Birmingham, United Kingdom
 **Jan 2012&mdash;Jul 2016**
 
